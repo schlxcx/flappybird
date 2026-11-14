@@ -2,9 +2,9 @@
 
 **A practical C# exercise for learning polymorphism, inheritance, and method overriding through a simple Flappy Bird game.**
 
-![Language](https://img.shields.io/badge/language-C%23-512BD4)
-![Framework](https://img.shields.io/badge/framework-.NET-512BD4)
-![Platform](https://img.shields.io/badge/platform-Windows-blue)
+![Language](./readme-img/language.svg)
+![Framework](./readme-img/framework.svg)
+![Platform](./readme-img/platform-windows.svg)
 
 ## Overview
 
@@ -36,12 +36,12 @@ Derived classes override `Move()` to implement their own movement behavior, demo
 
 ## Technology Stack
 
-| Category | Technology |
-|---|---|
-| Language | C# |
-| Framework | .NET Windows Forms |
-| Interface | Windows Forms |
-| Main Concept | Runtime Polymorphism |
+| Category            | Technology                             |
+| ------------------- | -------------------------------------- |
+| Language            | C#                                     |
+| Framework           | .NET Windows Forms                     |
+| Interface           | Windows Forms                          |
+| Main Concept        | Runtime Polymorphism                   |
 | Additional Concepts | Inheritance, Events, Method Overriding |
 
 ## Getting Started
