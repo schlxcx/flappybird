@@ -1,6 +1,6 @@
-# Flappy Bird – Polymorphism
+# Flappy Bird Clone – C# Polymorphism
 
-**A practical C# exercise for learning polymorphism, inheritance, and method overriding through a simple Flappy Bird game.**
+**A practical C# school project demonstrating polymorphism, inheritance, and method overriding through a simplified Flappy Bird-inspired game.**
 
 ![Language](./readme-img/language.svg)
 ![Framework](./readme-img/framework.svg)
@@ -8,11 +8,11 @@
 
 ## Overview
 
-This project is a simplified Flappy Bird game developed in C# using Windows Forms.
+This project is a simplified game inspired by Flappy Bird, developed in C# using Windows Forms as part of a school programming exercise.
 
 The main objective was to practice object-oriented programming, especially **runtime polymorphism** using `virtual` and `override` methods.
 
-The project is part of my personal software development portfolio.
+The project is also included in my personal software development portfolio.
 
 ## Features
 
@@ -36,12 +36,12 @@ Derived classes override `Move()` to implement their own movement behavior, demo
 
 ## Technology Stack
 
-| Category            | Technology                             |
-| ------------------- | -------------------------------------- |
-| Language            | C#                                     |
-| Framework           | .NET Windows Forms                     |
-| Interface           | Windows Forms                          |
-| Main Concept        | Runtime Polymorphism                   |
+| Category | Technology |
+| --- | --- |
+| Language | C# |
+| Framework | .NET Windows Forms |
+| Interface | Windows Forms |
+| Main Concept | Runtime Polymorphism |
 | Additional Concepts | Inheritance, Events, Method Overriding |
 
 ## Getting Started
@@ -59,6 +59,14 @@ Derived classes override `Move()` to implement their own movement behavior, demo
 - Managing movement and collision detection.
 - Creating a simple graphical game using Windows Forms.
 
+## Disclaimer
+
+This project is an independent educational exercise inspired by Flappy Bird.
+
+It is not affiliated with, sponsored by, or endorsed by the owners of Flappy Bird.
+
+Flappy Bird is a trademark of its respective owner.
+
 ## License
 
-No license has been specified. All rights are reserved by default.
+No license has been specified. All rights to the original source code are reserved by default. Third-party assets, if any, remain subject to their respective owners' rights.
